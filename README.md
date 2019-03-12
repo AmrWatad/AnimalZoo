@@ -5,9 +5,9 @@ The project goal is simple, but it is already rich in programmatic detail
 
 
     
-# technologies
-app developed in java on eclipse using  agile  methodology 
-* Sprint 1 : building the GOU with  .
+# Technologies
+App developed in java on eclipse using  agile  methodology 
+* Sprint 1 : building the GUI with  .
 * Sprint 2: create all class for the animal using all
     * OOP principles :inheritance, polymorphism, encapsulation, abstraction.
 * Sprint 3: developed all the previous code using
