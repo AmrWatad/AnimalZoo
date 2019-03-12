@@ -7,11 +7,11 @@ The project goal is simple, but it is already rich in programmatic detail
 
 # technologies
 app developed in java on eclipse using  agile  methodology 
-* Spring 1 : building the GOU with  .
-* Spring 2: create all class for the animal using all
+* Sprint 1 : building the GOU with  .
+* Sprint 2: create all class for the animal using all
     * OOP principles :inheritance, polymorphism, encapsulation, abstraction.
-* Spring 3: developed all the previous code using
+* Sprint 3: developed all the previous code using
     * Threads with synchronized to avoid many problems  like
      race condition ,deadlock ..
-* Spring 4: developed all the previous code using :
+* Sprint 4: developed all the previous code using :
     * Design patterns : Thread Pool,Singleton, Abstract Factory, Decorator, Observer / Listener, Prototype, Memento.
